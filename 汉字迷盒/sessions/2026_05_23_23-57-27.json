@@ -1,0 +1,61 @@
+{
+    "current_session": "2026_05_23_23-57-27",
+    "messages": [
+        {
+            "role": "user",
+            "content": "你好"
+        },
+        {
+            "role": "assistant",
+            "content": "你好！来猜个字谜吧：“一人一张口，口下长只手”（打一字）。"
+        },
+        {
+            "role": "user",
+            "content": "拿"
+        },
+        {
+            "role": "assistant",
+            "content": "太棒了！就是“拿”字！要不要再来一题？"
+        },
+        {
+            "role": "user",
+            "content": "来"
+        },
+        {
+            "role": "assistant",
+            "content": "“一口咬掉牛尾巴”（打一字）"
+        },
+        {
+            "role": "user",
+            "content": "告"
+        },
+        {
+            "role": "assistant",
+            "content": "太棒了！就是“告”字！要不要再来一题？"
+        },
+        {
+            "role": "user",
+            "content": "来"
+        },
+        {
+            "role": "assistant",
+            "content": "“十口不是田”（打一字）"
+        },
+        {
+            "role": "user",
+            "content": "古"
+        },
+        {
+            "role": "assistant",
+            "content": "太棒了！就是“古”字！要不要再来一题？"
+        },
+        {
+            "role": "user",
+            "content": "来"
+        },
+        {
+            "role": "assistant",
+            "content": "“门里有口”（打一字）"
+        }
+    ]
+}
