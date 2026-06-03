@@ -9,3 +9,5 @@ ai_partner_3是基于streamlit框架，实现基于web页面与大模型进行�
 实现功能：挂在静态目录，读写json格式文件，展示会话信息，加载历史会话，删除指定会话，exception_handler捕获异常，BaseModel数据校验，loggin打印日志
 
 技术栈：fastapi+starlette+fastapi+pydantic+logging+uvicorn
+
+学生信息管理系统实践：基于python的面向对象基础知识集中总结
